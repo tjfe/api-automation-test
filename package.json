@@ -1,0 +1,42 @@
+{
+  "name": "api-automation-test",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Terjoy API automation test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Please run mocha mannuly!\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjfe/api-automation-test.git"
+  },
+  "keywords": [
+    "test",
+    "automation",
+    "api",
+    "terjoy"
+  ],
+  "author": {
+    "name": "xovel",
+    "email": "xovel@foxmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjfe/api-automation-test/issues"
+  },
+  "homepage": "https://github.com/tjfe/api-automation-test#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "crypto-js": "^3.1.9-1",
+    "terjoy-api": "^1.1.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "js-yaml": "^3.13.1",
+    "mocha": "^6.1.4",
+    "nodemailer": "^6.2.1",
+    "psargv": "0.0.4",
+    "pug": "^2.0.3"
+  }
+}
