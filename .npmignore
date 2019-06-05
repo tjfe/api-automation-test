@@ -2,3 +2,10 @@
 /build
 
 package-lock.json
+
+# ignore all config files
+/config
+.config
+.config.*
+_config
+_config.*
