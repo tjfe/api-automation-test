@@ -32,6 +32,7 @@
     "terjoy-api": "^1.1.2"
   },
   "devDependencies": {
+    "@hapi/joi": "^15.0.3",
     "chai": "^4.2.0",
     "js-yaml": "^3.13.1",
     "mocha": "^6.1.4",
