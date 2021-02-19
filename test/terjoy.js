@@ -1,7 +1,7 @@
 'use strict'
 
 const Terjoy = require('terjoy-api/src')
-const joi = require('@hapi/joi')
+const joi = require('joi')
 const chai = require('chai')
 
 class Test extends Terjoy {

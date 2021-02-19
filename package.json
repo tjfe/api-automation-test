@@ -27,17 +27,17 @@
   },
   "homepage": "https://github.com/tjfe/api-automation-test#readme",
   "dependencies": {
-    "axios": "^0.19.0",
-    "crypto-js": "^3.1.9-1",
-    "terjoy-api": "^1.1.2"
+    "axios": "^0.21.1",
+    "crypto-js": "^4.0.0",
+    "terjoy-api": "^3.0.0"
   },
   "devDependencies": {
-    "@hapi/joi": "^15.0.3",
-    "chai": "^4.2.0",
-    "js-yaml": "^3.13.1",
-    "mocha": "^6.1.4",
-    "nodemailer": "^6.2.1",
-    "psargv": "0.0.4",
-    "pug": "^2.0.3"
+    "joi": "^17.4.0",
+    "chai": "^4.3.0",
+    "js-yaml": "^4.0.0",
+    "mocha": "^8.3.0",
+    "nodemailer": "^6.4.18",
+    "psargv": "0.0.6",
+    "pug": "^3.0.0"
   }
 }
